@@ -20,25 +20,6 @@
       "sniHost": "",
       "tlsVerify": false,
       "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/NL.png"
-    },
-    {
-      "name": "yt2",
-      "countryCode": "SG",
-      "sshHost": "ssh-sg1.sshkit.org",
-      "sshPort": 442,
-      "sshUsername": "sshkit-5231065783",
-      "sshPassword": "mo1234",
-      "sshKeyContent": "",
-      "sshKeyFileName": "",
-      "proxyHost": "34.43.46.91",
-      "proxyPort": 80,
-      "proxyUsername": "",
-      "proxyPassword": "",
-      "payload": "CONNECT [host_port] [protocol][crlf]Host: youtube.com[crlf]Service: SSH[crlf]Mode: Messaab [crlf][crlf]",
-      "tlsEnabled": false,
-      "sniHost": "",
-      "tlsVerify": false,
-      "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/SG.png"
     }
   ]
 }
