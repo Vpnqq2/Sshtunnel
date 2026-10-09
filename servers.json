@@ -18,7 +18,8 @@
       "payload": "CONNECT [host_port] [protocol][crlf]Host: youtube.com[crlf]Service: SSH[crlf]Mode: Messaab [crlf][crlf]",
       "tlsEnabled": false,
       "sniHost": "",
-      "tlsVerify": false
+      "tlsVerify": false,
+      "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/NL.png"
     },
     {
       "name": "yt2",
@@ -36,7 +37,8 @@
       "payload": "CONNECT [host_port] [protocol][crlf]Host: youtube.com[crlf]Service: SSH[crlf]Mode: Messaab [crlf][crlf]",
       "tlsEnabled": false,
       "sniHost": "",
-      "tlsVerify": false
+      "tlsVerify": false,
+      "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/SG.png"
     }
   ]
 }
