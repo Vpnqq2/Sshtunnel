@@ -5,7 +5,7 @@
     {
       "name": "yt",
       "countryCode": "NL",
-      "sshHost": "ssh-nl1.sshkit.org",
+      "sshHost": "212.129.0.35",
       "sshPort": 442,
       "sshUsername": "sshkit-5231065783",
       "sshPassword": "mo1234",
@@ -24,7 +24,7 @@
     {
       "name": "yt2",
       "countryCode": "SG",
-      "sshHost": "ssh-sg1.sshkit.org",
+      "sshHost": "103.253.24.237",
       "sshPort": 442,
       "sshUsername": "sshkit-6158901998",
       "sshPassword": "123456",
