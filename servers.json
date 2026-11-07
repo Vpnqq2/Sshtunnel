@@ -23,6 +23,20 @@
     },
     {
       "name": "yt2",
+      "countryCode": "NL",
+      "sshHost": "212.129.0.35",
+      "sshPort": 8443,
+      "sshUsername": "sshkit-5231065783",
+      "sshPassword": "mo1234",
+      "sshKeyContent": "",
+      "sshKeyFileName": "",
+      "tlsEnabled": true,
+      "sniHost": "link.snapchat.com",
+      "tlsVerify": false,
+      "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/NL.png"
+    },
+    {
+      "name": "yt3",
       "countryCode": "SG",
       "sshHost": "103.253.24.237",
       "sshPort": 442,
