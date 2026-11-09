@@ -24,7 +24,7 @@
     {
       "name": "NETHERLANDS SP",
       "countryCode": "NL",
-      "sshHost": "212.129.0.35",
+      "sshHost": "213.226.68.27",
       "sshPort": 8443,
       "sshUsername": "sshkit-5231065783",
       "sshPassword": "mo1234",
@@ -41,7 +41,7 @@
       "countryCode": "NL",
       "sshHost": "103.253.24.237",
       "sshPort": 8443,
-      "sshUsername": "sshkit-5231065783",
+      "sshUsername": "sshmax-iptapper6",
       "sshPassword": "mo1234",
       "sshKeyContent": "",
       "sshKeyFileName": "",
