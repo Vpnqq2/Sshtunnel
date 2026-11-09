@@ -39,9 +39,9 @@
     {
       "name": "SINGAPORE SP",
       "countryCode": "NL",
-      "sshHost": "103.253.24.237",
-      "sshPort": 8443,
-      "sshUsername": "sshkit-6158901998",
+      "sshHost": "146.19.196.142",
+      "sshPort": 443,
+      "sshUsername": "sshmax-iptappersg5",
       "sshPassword": "mo1234",
       "sshKeyContent": "",
       "sshKeyFileName": "",
