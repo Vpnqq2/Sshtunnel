@@ -3,7 +3,7 @@
   "version": 1,
   "configs": [
     {
-      "name": "yt",
+      "name": "NETHERLANDS YT",
       "countryCode": "NL",
       "sshHost": "212.129.0.35",
       "sshPort": 442,
@@ -22,7 +22,7 @@
       "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/NL.png"
     },
     {
-      "name": "yt2",
+      "name": "NETHERLANDS SP",
       "countryCode": "NL",
       "sshHost": "212.129.0.35",
       "sshPort": 8443,
@@ -35,8 +35,23 @@
       "tlsVerify": false,
       "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/bl.png"
     },
+    
     {
-      "name": "yt3",
+      "name": "NETHERLANDS SP",
+      "countryCode": "NL",
+      "sshHost": "103.253.24.237",
+      "sshPort": 8443,
+      "sshUsername": "sshkit-5231065783",
+      "sshPassword": "mo1234",
+      "sshKeyContent": "",
+      "sshKeyFileName": "",
+      "tlsEnabled": true,
+      "sniHost": "link.snapchat.com",
+      "tlsVerify": false,
+      "flagUrl": "https://raw.githubusercontent.com/Vpnqq2/Sshtunnel/refs/heads/main/SG.png"
+    },
+    {
+      "name": "SINGAPORE YT",
       "countryCode": "SG",
       "sshHost": "103.253.24.237",
       "sshPort": 442,
